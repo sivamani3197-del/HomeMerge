@@ -1,3 +1,6 @@
 this is h file in f3
 
-this is h file -2
+this is h file
+=======
+this is h file in second
+>>>>>>> first

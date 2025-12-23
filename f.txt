@@ -1,3 +1,7 @@
 this is f file in f2 and master
 
-this is f file -2
+this is f file
+=======
+this is f file in first
+
+>>>>>>> first

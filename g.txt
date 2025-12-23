@@ -1,3 +1,7 @@
-this is g file in f3
+this is g file in f
 
-this is g file -2
+this is g file
+=======
+this is g file in first
+
+>>>>>>> first

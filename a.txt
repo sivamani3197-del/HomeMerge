@@ -1,4 +1,7 @@
 this is a file in master
 
-this is a file in master 1
+this is a file in master
+=======
+this is first branch
+>>>>>>> first
 

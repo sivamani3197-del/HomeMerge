@@ -1,3 +1,6 @@
 this is c file in master
 
-this is c file -2
+this is c file
+
+this is c file in first
+>>>>>>> first

@@ -1,3 +1,6 @@
 this is b file in master
 
-this is b file -2
+this is b file
+
+this is b file in first
+>>>>>>> first
