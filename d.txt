@@ -1,1 +1,4 @@
 This is d file in f2 and master
+
+this is d file in f1 and first
+
